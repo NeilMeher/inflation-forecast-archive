@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="235" viewBox="0 0 620 235">
+<rect width="620" height="235" fill="#f2f6f9"/>
+<g font-family="sans-serif" fill="#172f41">
+<text x="22" y="29" font-size="20">Matched forecast error (percentage points)</text>
+<text x="23" y="77">MPC</text><rect x="122" y="58" width="400.0" height="25" fill="#09687a"/><text x="530.0" y="77">1.41</text>
+<text x="23" y="126">SURVEY</text><rect x="122" y="107" width="375.8" height="25" fill="#a4422c"/><text x="505.8" y="126">1.33</text>
+<text x="23" y="175">BASELINE</text><rect x="122" y="156" width="336.5" height="25" fill="#405269"/><text x="466.5" y="175">1.19</text>
+</g></svg>

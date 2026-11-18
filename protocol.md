@@ -1,0 +1,5 @@
+# Comparison protocol
+
+Compare RBI MPC central projections and the median of external forecasters in the RBI Survey of Professional Forecasters. Match on release date and on the exact fiscal quarter of the headline all-India year-on-year CPI target. The archive contains the overlapping August forecast for FY26 Q2 and June, August, October and December forecasts for FY26 Q3. Exclude projections released after the end of their target quarter. Both sources used the former 2012-base CPI series. Score against the arithmetic mean of the three published monthly year-on-year rates, using first releases throughout.
+
+The baseline is the last available monthly headline rate held constant through the target quarter. Use mean absolute error across matched rows in percentage points. Use June–December 2025 as the fixed overlap and no fitting. The repeated Q3 observations share an outcome. The December point includes partial-quarter information. Publish raw errors and avoid statistical claims from five related rows.

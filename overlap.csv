@@ -1,0 +1,6 @@
+date,period,mpc,survey,mpc_source,survey_source,actual,baseline,baseline_month,mpc_error,survey_error,baseline_error
+2025-06-06,FY26 Q3,3.9,3.5,https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=60604,https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=23155,0.7633333333333333,3.16,2025-04,3.1366666666666667,2.736666666666667,2.396666666666667
+2025-08-06,FY26 Q2,2.1,2.4,https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=60957,https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=23165,1.72,2.1,2025-06,0.3800000000000001,0.6799999999999999,0.3800000000000001
+2025-08-06,FY26 Q3,3.1,2.7,https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=60957,https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=23165,0.7633333333333333,2.1,2025-06,2.336666666666667,1.936666666666667,1.336666666666667
+2025-10-01,FY26 Q3,1.8,2,https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=61332,https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=23427,0.7633333333333333,2.07,2025-08,1.0366666666666666,1.2366666666666668,1.3066666666666666
+2025-12-05,FY26 Q3,0.6,0.8,https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=23842,https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=23442,0.7633333333333333,0.25,2025-10,0.16333333333333333,0.036666666666666736,0.5133333333333333

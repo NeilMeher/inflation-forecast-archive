@@ -1,0 +1,13 @@
+<!doctype html><html lang=en><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1">
+<title>Inflation forecast archive</title><style>body{font:1rem/1.6 system-ui;color:#17394d;max-width:65rem;margin:4rem auto;padding:0 1rem;background:#f5f8fb}
+table{border-collapse:collapse;width:100%;background:white}td,th{border-bottom:1px solid #d4dde5;padding:.65rem;text-align:left}
+input{font:inherit;padding:.45rem;margin:.7rem}img{max-width:100%}</style>
+<h1>Inflation forecast archive</h1><p>Compare dated RBI MPC and external survey forecasts on the same targets. Values are percentages.</p>
+<label>Filter by date or quarter <input type=search></label><table><thead><tr><th>Date</th><th>Target</th><th>MPC</th><th>Survey</th><th>Baseline</th><th>Actual</th></tr></thead><tbody><tr><td>2025-06-06</td><td>FY26 Q3</td><td><a href="https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=60604">3.9</a></td><td><a href="https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=23155">3.5</a></td><td>3.16</td><td>0.76</td></tr>
+<tr><td>2025-08-06</td><td>FY26 Q2</td><td><a href="https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=60957">2.1</a></td><td><a href="https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=23165">2.4</a></td><td>2.10</td><td>1.72</td></tr>
+<tr><td>2025-08-06</td><td>FY26 Q3</td><td><a href="https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=60957">3.1</a></td><td><a href="https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=23165">2.7</a></td><td>2.10</td><td>0.76</td></tr>
+<tr><td>2025-10-01</td><td>FY26 Q3</td><td><a href="https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=61332">1.8</a></td><td><a href="https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=23427">2.0</a></td><td>2.07</td><td>0.76</td></tr>
+<tr><td>2025-12-05</td><td>FY26 Q3</td><td><a href="https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=23842">0.6</a></td><td><a href="https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=23442">0.8</a></td><td>0.25</td><td>0.76</td></tr></tbody></table><img src="errors.svg" alt="Mean absolute forecast errors by system">
+<script>document.querySelector("input").addEventListener("input",event=>{
+for(const row of document.querySelectorAll("tbody tr"))row.hidden=!row.textContent.toLowerCase().includes(event.target.value.trim().toLowerCase());
+});</script></html>

@@ -1,0 +1,112 @@
+{
+  "releases": [
+    {
+      "month": "2025-04",
+      "release": "2025-05-13",
+      "value": 3.16,
+      "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2128387&lang=2&reg=48"
+    },
+    {
+      "month": "2025-05",
+      "release": "2025-06-12",
+      "value": 2.82,
+      "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2135927&lang=2&reg=48"
+    },
+    {
+      "month": "2025-06",
+      "release": "2025-07-14",
+      "value": 2.1,
+      "source": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/jul/doc2025714586001.pdf"
+    },
+    {
+      "month": "2025-07",
+      "release": "2025-08-12",
+      "value": 1.55,
+      "source": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/aug/doc2025812605601.pdf"
+    },
+    {
+      "month": "2025-08",
+      "release": "2025-09-12",
+      "value": 2.07,
+      "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2165974&lang=2&reg=48"
+    },
+    {
+      "month": "2025-09",
+      "release": "2025-10-13",
+      "value": 1.54,
+      "source": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/oct/doc20251013665201.pdf"
+    },
+    {
+      "month": "2025-10",
+      "release": "2025-11-12",
+      "value": 0.25,
+      "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2189186&lang=2&reg=48"
+    },
+    {
+      "month": "2025-11",
+      "release": "2025-12-12",
+      "value": 0.71,
+      "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2202940&lang=2&reg=48"
+    },
+    {
+      "month": "2025-12",
+      "release": "2026-01-12",
+      "value": 1.33,
+      "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2213736&lang=2&reg=48"
+    }
+  ],
+  "pairs": [
+    {
+      "date": "2025-06-06",
+      "period": "FY26 Q3",
+      "mpc": 3.9,
+      "survey": 3.5,
+      "mpc_source": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=60604",
+      "survey_source": "https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=23155"
+    },
+    {
+      "date": "2025-08-06",
+      "period": "FY26 Q2",
+      "mpc": 2.1,
+      "survey": 2.4,
+      "mpc_source": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=60957",
+      "survey_source": "https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=23165"
+    },
+    {
+      "date": "2025-08-06",
+      "period": "FY26 Q3",
+      "mpc": 3.1,
+      "survey": 2.7,
+      "mpc_source": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=60957",
+      "survey_source": "https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=23165"
+    },
+    {
+      "date": "2025-10-01",
+      "period": "FY26 Q3",
+      "mpc": 1.8,
+      "survey": 2,
+      "mpc_source": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=61332",
+      "survey_source": "https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=23427"
+    },
+    {
+      "date": "2025-12-05",
+      "period": "FY26 Q3",
+      "mpc": 0.6,
+      "survey": 0.8,
+      "mpc_source": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=23842",
+      "survey_source": "https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=23442"
+    }
+  ],
+  "periods": {
+    "FY26 Q2": [
+      "2025-07",
+      "2025-08",
+      "2025-09"
+    ],
+    "FY26 Q3": [
+      "2025-10",
+      "2025-11",
+      "2025-12"
+    ]
+  }
+}
